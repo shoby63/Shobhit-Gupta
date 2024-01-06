@@ -1,4 +1,4 @@
-[logo](https://github.com/shoby63/Shobhit-Gupta/blob/592d41bfec4d6805d3f6509696b5cdfd9793834a/LinkedIn%20Banner.png)
+![logo](https://github.com/shoby63/Shobhit-Gupta/blob/592d41bfec4d6805d3f6509696b5cdfd9793834a/LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Shobhit Gupta</h1>
 <h3 align="center">A passionate Mern Stack developer from India</h3>
 <img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="GIF"/>
